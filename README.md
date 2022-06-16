@@ -15,6 +15,7 @@
 <h2>Screenshot</h2>
 <br>
 <img src="./assets/images/capture.png">
+<img src="./assets/images/capture1.png">
 <br>
 <br>
 <h2>You can try it !</h2>
